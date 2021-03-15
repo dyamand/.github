@@ -1,12 +1,8 @@
-## Related issues
-
 Fixes #?
 
-## Changes
+Changes
 -
 -
 -
 
-## Please take a look
-
-@dyamand/developers
+Relevant people: @dyamand/developers
