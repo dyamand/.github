@@ -20,5 +20,9 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
+**Version**
+Please note down any relevant version info here.
+E.g. image tags, bundle versions, tool versions...
+
 **Additional context**
 Add any other context about the problem here.
